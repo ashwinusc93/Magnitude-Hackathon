@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagniFoodHack", "MagniFoodHack\MagniFoodHack.csproj", "{78547D2F-B262-453E-ABC6-43BADE35FEA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagniFoodHack.Tests", "MagniFoodHack.Tests\MagniFoodHack.Tests.csproj", "{1F70379A-73B5-44A1-9FA5-1AA16E43FA61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78547D2F-B262-453E-ABC6-43BADE35FEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78547D2F-B262-453E-ABC6-43BADE35FEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78547D2F-B262-453E-ABC6-43BADE35FEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78547D2F-B262-453E-ABC6-43BADE35FEA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F70379A-73B5-44A1-9FA5-1AA16E43FA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F70379A-73B5-44A1-9FA5-1AA16E43FA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F70379A-73B5-44A1-9FA5-1AA16E43FA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F70379A-73B5-44A1-9FA5-1AA16E43FA61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67442A7F-6071-4D7F-BAA8-019FF88D0AF5}
+	EndGlobalSection
+EndGlobal
