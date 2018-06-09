@@ -41,8 +41,6 @@ namespace MagniFoodHack.Controllers
             string username = "sa";
             string password = "test123$";
 
-            Console.WriteLine("trunk test");
-
             return GetDBConnection(datasource, database, username, password);
         }
 
